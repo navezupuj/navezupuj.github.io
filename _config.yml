@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://navezupuj.github.io
+title: navezupuj
+paginate: 10
